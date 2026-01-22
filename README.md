@@ -5,25 +5,27 @@
   </a>
 </h1>
 
-<h5 align="center">
-  <code><a href="https://www.linkedin.com/in/mohamedwalid0/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://codeforces.com/profile/Mohamed_Walid11" title="CodeForces Profile"><img width="22" src="images/code-forces.svg"> CodeForces</a></code>
-  <code><a href="https://leetcode.com/u/MohamedWalid11/" title="LeetCode Profile"><img width="22" src="images/leetcode.svg"> LeetCode</a></code>
-</h5>
-<br>
-<p align="center">
-  Hi, I'm Mohamed Waleed, Computer Science student from Egypt
+<div align="center">
+  <h5 align="center">
+    <code><a href="https://www.linkedin.com/in/mohamedwalid0/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
+    <code><a href="https://codeforces.com/profile/Mohamed_Walid11" title="CodeForces Profile"><img width="22" src="images/code-forces.svg"> CodeForces</a></code>
+    <code><a href="https://leetcode.com/u/MohamedWalid11/" title="LeetCode Profile"><img width="22" src="images/leetcode.svg"> LeetCode</a></code>
+  </h5>
+  <img align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif" width="170" alt="Coding GIF"/>
   <br>
-  <br>
-  🔬 I'm currently studying Computer Science at Cairo University
-  <br>
-  💻 I love writing code and learn anythings about it
-  <br>
-  📚 I’m currently learning Full-Stack Development
-  <br>
-  📫 How to reach me: <a href="mailto: mohamedwa904@gmail.com">mohamedwa904@gmail.com</a>
-</p>
-
+  <p align="center">
+    Hi, I'm Mohamed Waleed, Computer Science student from Egypt
+    <br>
+    <br>
+    🔬 I'm currently studying Computer Science at Cairo University
+    <br>
+    💻 I love writing code and learn anythings about it
+    <br>
+    📚 I’m currently learning Full-Stack Development
+    <br>
+    📫 How to reach me: <a href="mailto: mohamedwa904@gmail.com">mohamedwa904@gmail.com</a>
+  </p>
+</div>
 <hr>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
@@ -37,7 +39,12 @@
   <code><img title="Java" height="25" src="images/java-original.svg"></code>
   <code><img title="GitHub" height="25" src="images/github.svg"></code>
 </p>
+<h2 align="center">📊 LeetCode Card</h2>
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/MohamedWalid11?theme=catppuccinMocha&font=Varta&ext=heatmap" alt="LeetCode Stats"/>
+</div>
 <hr>
+
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
