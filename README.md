@@ -49,31 +49,29 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align="center">
-  <img src="images/userstats.svg" alt="My GitHub Stats" />
+  <img src="images/stats.svg" height="180" alt="My GitHub Stats" />
+  <img src="images/top-langs.svg" height="180" alt="Top Languages" />
 </div>
 <br>
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohamed-walid88&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-</p>
 
 <hr>
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 
 <div align="center">
   <a href="https://github.com/Mohamed-walid88/Metal-Slug">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohamed-walid88&repo=Metal-Slug&theme=react&border_color=61dafb&border_radius=10" height="120" />
+    <img src="images/repo-metal-slug.svg" height="120" alt="Metal-Slug" />
   </a>
   <a href="https://github.com/Mohamed-walid88/ODE-Calculator">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohamed-walid88&repo=ODE-Calculator&theme=react&border_color=61dafb&border_radius=10" height="120" />
+    <img src="images/repo-ode-calculator.svg" height="120" alt="ODE-Calculator" />
   </a>
-  <br /> <a href="https://github.com/Mohamed-walid88/Scientific-Calculator-">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohamed-walid88&repo=Scientific-Calculator-&theme=react&border_color=61dafb&border_radius=10" height="120" />
+  <br />
+  <a href="https://github.com/Mohamed-walid88/Scientific-Calculator-">
+    <img src="images/repo-scientific-calculator.svg" height="120" alt="Scientific-Calculator" />
   </a>
   <a href="https://github.com/Mohamed-walid88/Mechanics-visualization">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohamed-walid88&repo=Mechanics-visualization&theme=react&border_color=61dafb&border_radius=10" height="120" />
+    <img src="images/repo-mechanics-visualization.svg" height="120" alt="Mechanics-visualization" />
   </a>
 </div>
-
 
 
 <!--
