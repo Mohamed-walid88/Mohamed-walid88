@@ -1,0 +1,15 @@
+<svg width="400" height="120" xmlns="http://www.w3.org/2000/svg">
+  <rect width="400" height="120" fill="#0d1117" rx="15"/>
+  
+  <text x="20" y="40" fill="#58a6ff" font-size="20" font-family="Arial" font-weight="bold">
+    Tic-Tac-Toe
+  </text>
+
+  <text x="20" y="75" fill="#c9d1d9" font-size="14" font-family="Arial">
+    JavaScript | Minimax AI | Web Game
+  </text>
+
+  <text x="20" y="100" fill="#8b949e" font-size="12" font-family="Arial">
+    Play against AI with adjustable difficulty
+  </text>
+</svg>
