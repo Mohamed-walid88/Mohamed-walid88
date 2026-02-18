@@ -69,7 +69,7 @@
     <img src="images/repo-scientific-calculator.svg" width="420" />
   </a>
   <a href="https://github.com/Mohamed-walid88/Tic-Tac-Toe">
-    <img src="images/Tic-Tac-Toe.svg" height="120" alt="Tic-Tac-Toe" />
+    <img src="images/repo-tic-tac-toe.svg" height="120" alt="Tic-Tac-Toe" />
   </a>
 </div>
 
