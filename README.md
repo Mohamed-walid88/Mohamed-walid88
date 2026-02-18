@@ -68,8 +68,8 @@
   <a href="https://github.com/Mohamed-walid88/Scientific-Calculator-">
     <img src="images/repo-scientific-calculator.svg" height="120" alt="Scientific-Calculator" />
   </a>
-  <a href="https://github.com/Mohamed-walid88/Mechanics-visualization">
-    <img src="images/repo-mechanics-visualization.svg" height="120" alt="Mechanics-visualization" />
+  <a href="https://github.com/Mohamed-walid88/Tic-Tac-Toe">
+    <img src="images/Tic-Tac-Toe.svg" height="120" alt="Tic-Tac-Toe" />
   </a>
 </div>
 
