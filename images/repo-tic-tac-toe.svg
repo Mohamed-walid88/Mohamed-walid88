@@ -1,6 +1,13 @@
-<svg width="400" height="120" xmlns="http://www.w3.org/2000/svg">
-  <rect width="400" height="120" fill="#0d1117" rx="15"/>
+<svg width="420" height="140" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg3" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="100%" stop-color="#161b22"/>
+    </linearGradient>
+  </defs>
   
+  <rect width="420" height="140" rx="20" fill="url(#bg3)" stroke="#58a6ff" stroke-width="1.2"/>
+
   <text x="20" y="40" fill="#58a6ff" font-size="20" font-family="Arial" font-weight="bold">
     Tic-Tac-Toe
   </text>
