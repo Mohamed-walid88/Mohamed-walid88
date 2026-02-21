@@ -38,6 +38,9 @@
   <code><img title="Microsoft Visual Studio" height="25" src="images/visualstudio.png"></code>
   <code><img title="Java" height="25" src="images/java-original.svg"></code>
   <code><img title="GitHub" height="25" src="images/github.svg"></code>
+  <code><img title="HTML" height="25" src="images/html.svg"></code>
+  <code><img title="CSS" height="25" src="images/css.svg"></code>
+  <code><img title="JavaScript" height="25" src="images/javascript.svg"></code>
 </p>
 <h2 align="center">📊 LeetCode Card</h2>
 <div align="center">
