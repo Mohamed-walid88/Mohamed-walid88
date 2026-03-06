@@ -41,6 +41,7 @@
   <code><img title="HTML" height="25" src="images/html.svg"></code>
   <code><img title="CSS" height="25" src="images/css.svg"></code>
   <code><img title="JavaScript" height="25" src="images/javascript.svg"></code>
+  <code><img title="React" height="25" src="images/react.svg"></code>
 </p>
 <h2 align="center">📊 LeetCode Card</h2>
 <div align="center">
